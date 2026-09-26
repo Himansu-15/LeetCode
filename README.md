@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Himansu-15/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Himansu-15/LeetCode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Himansu-15/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Himansu-15/LeetCode/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Himansu-15/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
